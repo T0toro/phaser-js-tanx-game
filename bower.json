@@ -1,0 +1,26 @@
+{
+  "name": "phaser-js-tanx-game",
+  "homepage": "https://github.com/T0toro/phaser-js-tanx-game",
+  "authors": [
+    "Evgeniy Troynov <troinov174@gmail.com>"
+  ],
+  "description": "simple html5 game built in phaser.js. Tanx style game.",
+  "main": "index.js",
+  "keywords": [
+    "phaser.js",
+    "html5",
+    "game"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
